@@ -13,7 +13,7 @@ The Survival Duration Calculator is a Python script designed to calculate the du
 ### Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/pooja251096/Survival-Duration-Calculator
 cd Survival-Duration-Calculator
 
 ### Project Structure
