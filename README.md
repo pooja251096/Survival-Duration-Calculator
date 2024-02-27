@@ -15,8 +15,9 @@ The Survival Duration Calculator is a Python script designed to calculate the du
 ```bash
 git clone <repository_url>
 cd Survival-Duration-Calculator
-Project Structure
-survival_duration_calculator.py: Contains the main script with the SurvivalDurationCalculator class.
+
+**### Project Structure
+**survival_duration_calculator.py: Contains the main script with the SurvivalDurationCalculator class.
 README.md: Documentation explaining how to use the script.
 ### Run the Script
 survival_duration_calculator.ipynb
